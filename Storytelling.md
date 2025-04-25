@@ -23,3 +23,14 @@ Zonas:
  - Océanos con mayor cantidad (esquema jerárquico)- regiones...
  - Cantidad total : Big number
  - RELACION CON EL OTRO DATASET: Zonas-regiones (si se puede relacionar la salud de los arrecifes(Bleaching Severity)con mayor presencia de microplásticos) - Estudiar o incluir otros factores como las especies observadas.
+
+------------------------------------ o -----------------------------------------------------
+
+FINDE 26-27/04--> Para el lunes
+
+- ISA_ Hacer introducción, EDA-limpieza galapagos, gran reef
+- BEA: EDA south_china, Preparar archivo de UNIÓN.
+- Ir probado cosas en POWER BI
+
+* Hacer el EDA, prácticamente igual que el archivo 01_EDA, En regiones, pondría
+el nombre correspondiente al Location.
