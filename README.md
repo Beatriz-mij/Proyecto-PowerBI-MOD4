@@ -1,4 +1,9 @@
-### 🌊 Microplásticos y Arrecifes de Coral: Un Análisis Ambiental con Power BI
+### 🌊 Microplásticos y Arrecifes de Coral: Un Análisis Ambiental con Power BI:
+
+### 📂 Proyecto:
+Este repositorio contiene un proyecto de análisis exploratorio y visualización de datos sobre la distribución de microplásticos en océanos y su posible relación con la salud de los arrecifes de coral, implementado con Power BI.
+
+Se trata de una investigación descriptiva y correlacional que aprovecha datos estructurados de múltiples fuentes para generar insights ambientales visualmente interpretables.
 
 ### 📌 Descripción del Proyecto:
 
@@ -92,29 +97,41 @@ Aunque los microplásticos son una amenaza significativa, no se encontró una co
 
 🔜 Próximos Pasos:
 
-- Optimización de datos:
+🔄 Optimización de datos:
 
-    - Estandarización de formatos
+- Integrar ETL para limpieza automática
 
-- Incorporación de nuevas variables: salinidad, profundidad, temperatura
+- Incluir nuevas variables: salinidad, profundidad, corriente media
 
-    - Revisión de criterios de calidad en el muestreo
+📈 Mejora analítica:
 
-- Investigación:
+- Entrenar modelos predictivos con ML
 
-    - Identificación de especies bioindicadoras
+- Estimar riesgo de blanqueamiento coralino por zona
 
-    - Inclusión de medidas estandarizadas de blanqueo coralino
+🧪 Validación científica:
 
-    - Modelos predictivos con Machine Learning
+- Colaboración con biólogos marinos y oceanógrafos
 
-- Concienciación:
+- Validación cruzada con estudios de campo
 
-    - Desarrollo de informes accesibles
+🧭 Concienciación:
 
-    - Exposición pública de resultados
+- Desarrollo de informes accesibles
 
-    - Educación ambiental a través de visualizaciones interactivas
+- Exposición pública de resultados
+
+- Educación ambiental a través de visualizaciones interactivas
+
+### 📌 Requisitos: 
+
+- Para visualizar y editar el proyecto:
+
+- Power BI Desktop (versión 2023 o superior)
+
+- Conexión a internet para recursos externos (videos, APIs opcionales)
+
+- 8 GB de RAM recomendados
 
 🔗 Enlaces útiles:
 
