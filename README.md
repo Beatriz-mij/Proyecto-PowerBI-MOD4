@@ -129,7 +129,7 @@ Aunque los microplásticos son una amenaza significativa, no se encontró una co
 
 - Power BI Desktop (versión 2023 o superior)
 
-- Conexión a internet para recursos externos (videos, APIs opcionales)
+- Conexión a internet para recursos externos
 
 - 8 GB de RAM recomendados
 
