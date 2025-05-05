@@ -83,13 +83,13 @@ Evaluar la distribución geográfica y densidad de microplásticos en los princi
 
 📌 Hallazgos Destacados:
 
-Solo un 4,39% de las zonas con alta densidad de microplásticos presentan también un blanqueamiento severo de los corales.
+- Solo un 4,39% de las zonas con alta densidad de microplásticos presentan también un blanqueamiento severo de los corales.
 
-Las zonas con blanqueamiento medio concentran más microplásticos que las zonas sanas o totalmente degradadas, lo cual podría explicarse por:
+- Las zonas con blanqueamiento medio concentran más microplásticos que las zonas sanas o totalmente degradadas, lo cual podría explicarse por:
 
-Menor capacidad de filtrado biológico en arrecifes parcialmente dañados.
+- Menor capacidad de filtrado biológico en arrecifes parcialmente dañados.
 
-Mayor presión antrópica (turismo, navegación) y turbulencia local.
+- Mayor presión antrópica (turismo, navegación) y turbulencia local.
 
 🧠 Conclusiones:
 
